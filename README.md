@@ -1,1 +1,1 @@
-# Universal-wire-extender
+# Universal-cable-extender
